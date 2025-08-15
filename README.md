@@ -2,8 +2,14 @@
 
 **An advanced, AI-powered platform for medical and health data analysis. Ask questions in plain English, get intelligent insights, and visualize your data interactively.**
 
-![MedicoAI Pro Screenshot](https://i.imgur.com/YOUR_SCREENSHOT_URL.png)
-*(**Note**: Replace this with a screenshot of your running application!)*
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://medicoaipro.streamlit.app/)
+
+---
+
+## 🚀 Live Demo
+
+You can access a live version of the application here:
+**[https://medicoaipro.streamlit.app/](https://medicoaipro.streamlit.app/)**
 
 ---
 
